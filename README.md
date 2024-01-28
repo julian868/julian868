@@ -2,9 +2,9 @@
 <h3 align="center">Aspiring Software Developer</h3>
 <br>
 
-- 👨‍💻 All of my projects are available at [https://julian868.github.io/PortfolioSiteGHP/](https://julian868.github.io/PortfolioSiteGHP/)
+- 👨‍💻 All of my projects are available at [https://julian868.github.io/Portfolio/](https://julian868.github.io/Portfolio/)
 
-<h3 align="left">Featured Project: <a href="https://julian868.github.io/PortfolioSiteGHP/#CocktailRecipeFinder">Cocktail Recipe Finder</a></h3>
+<h3 align="left">Featured Project: <a href="https://julian868.github.io/Portfolio/#CocktailRecipeFinder">Cocktail Recipe Finder</a></h3>
 <p>Learn a new skill or show off to your friends! Look up the recipes for your favourite drinks. Powered by:  <a href="https://www.thecocktaildb.com/api.php">The Cocktail DB API</a></p>
 
 ![](assets/CRPDemo.gif)
